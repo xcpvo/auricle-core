@@ -1,0 +1,2 @@
+SEX_IN_THE_CLUB  score=585  coverage=53.0%  delta=625 кадров (+40.00с)
+SEX_IN_THE_CLUB  score=5  coverage=0.5%  delta=1143 кадров (+73.15с)
